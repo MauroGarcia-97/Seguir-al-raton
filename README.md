@@ -1,8 +1,13 @@
-# React + Vite
+<strong> Seguir El Raton /  Follow The Mouse </strong> <br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/MauroGarcia-97/Seguir-al-raton/assets/150713356/9f08c52e-4b43-4a89-ba9a-7a97d8e8cae9)
 
-Currently, two official plugins are available:
+En Español <br> 
+Seguir Cursor React es una aplicación liviana y ágil desarrollada en React con Vite que ofrece una experiencia intuitiva y divertida al seguir el movimiento del ratón o puntero. 
+Diseñada para ser fácil de usar y accesible para todos, esta aplicación responde en tiempo real al movimiento del cursor, brindando una experiencia interactiva única.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In English<br>
+Follow Cursor React is a lightweight and agile application developed in React with Vite that offers an intuitive and fun experience by following the movement of the mouse or pointer.
+Designed to be easy to use and accessible to everyone, this application responds in real time to cursor movement, providing a unique interactive experience.
+
+![image](https://github.com/MauroGarcia-97/Seguir-al-raton/assets/150713356/13c9405e-c1a8-4564-b888-02c4e02c9784)
